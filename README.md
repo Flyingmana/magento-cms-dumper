@@ -5,6 +5,7 @@ Hint: yes I know this is not a fully valid module, feel free to do a PR
 
 ## Todo
 
+* check if the import for blocks does even work (not tested yet, had enough after it worked for pages)
 * allow import/export of single IDs via commandline argument
 * add modman file
 * add composer.json
